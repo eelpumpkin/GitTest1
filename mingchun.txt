@@ -1,6 +1,8 @@
+MyLog22feb2017
+free lunch and free dinner, CQ2 100
 ello 23feb2017
 raining day
 3th adding
 4th modified...
 history: here
-#sudo yum install git on [centos7]
+#sudo yum install git on [centos7?星期四 ?2017年?二月?23日]
