@@ -1,3 +1,6 @@
 ello 23feb2017
-modified here
 raining day
+3th adding
+4th modified...
+history: here
+#sudo yum install git on [centos7]
